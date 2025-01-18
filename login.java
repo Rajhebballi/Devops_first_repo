@@ -7,4 +7,5 @@ static void mani{
 }
  main static public void{
 got it
-}
+}f
+fafa
